@@ -1,0 +1,4 @@
+jquerylightbox
+==============
+
+jQueryLightbox for REDAXO
