@@ -1,0 +1,10 @@
+Addon: jQueryLightbox Version 1.1
+
+19.03.2008 Version 1.1 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Anpassung an REDAXO 4.1
+			  - Beispielmodul angepasst
+			  - HTML-Fehler/Warnings bereinigt
+			  
+19.12.2007 Version 1.0 Andreas Eberhard <andreas.eberhard@gmail.com>
+           - Erste Version für REDAXO ab 3.1
+           - jQuery lightBox Version 0.4
